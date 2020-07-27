@@ -20,7 +20,7 @@ transporter.use('compile', hbs({
 //step 2 
 let mailOptions = {
     from: 'angelpadillaleonel@gmail.com',
-    to: 'lucithegod@gmail.com',
+    to: 'angel@onesixonegroup.com',
     subject: 'Testing and testing',
     text: 'It works!! -Sent from server.js with process env',
     attachments: [
